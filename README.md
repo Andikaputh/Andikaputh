@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Banner Merah Menyala di Paling Atas -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,80&height=120&section=header&text=ANDIKA%20PUTRA%20PERDANA&fontSize=26&fontColor=ff4d4d&animation=fadeIn" />
+<!-- Header System Card (Mirip Referensi Gambar) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&stroke=3b82f6&strokeWidth=2&height=100&section=header&text=HUNTER:%20ANDIKA%20PUTRA%20PERDANA&fontSize=22&fontColor=38bdf8&fontAlign=50&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-ef4444?style=flat-square&logo=icloud&logoColor=ef4444" />
-  <img src="https://img.shields.io/badge/Role-Data_%26_AI_Engineer-1e293b?style=flat-square&color=0b0f19&labelColor=1e293b&colorA=ef4444" />
-  <img src="https://img.shields.io/badge/Focus-Next_Gen_AI_%26_LLM-ef4444?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Job-Data_%26_AI_Monarch-9333ea?style=flat-square&labelColor=0b0f19" />
+  <img src="https://img.shields.io/badge/Rank-S_Awakened-f59e0b?style=flat-square&labelColor=0b0f19" />
+  <img src="https://img.shields.io/badge/Level-42-3b82f6?style=flat-square&labelColor=0b0f19" />
 </p>
 
 </div>
@@ -14,25 +14,24 @@
 ---
 
 ### 💻 About Me
-> A passionate **Data & AI Enthusiast** focused on building intelligent systems, statistical modeling, and exploring the boundaries of Next-Gen Generative AI. I turn complex data into actionable insights and scalable solutions.
+> A passionate **Data & AI Engineer** focused on building intelligent systems, statistical modeling, and exploring the boundaries of Next-Gen Generative AI. I turn complex data into actionable insights and scalable solutions.
 
 ---
 
-### 🏆 Achievements & Badges (Duolingo-Style)
+### 🏆 Hunter Achievements (Duolingo-Style)
 <div align="center">
 
-<!-- Badge Besar dengan Aksen Merah (Red Theme) -->
 <a href="https://github.com/Andikaputh">
-  <img src="https://img.shields.io/badge/RANK_S-Data_Monarch-red?style=for-the-badge&logo=codewars&logoColor=white&labelColor=0b0f19" alt="Rank S" height="40"/>
+  <img src="https://img.shields.io/badge/RANK_S-Data_Monarch-blue?style=for-the-badge&logo=codewars&logoColor=white&labelColor=0b0f19" alt="Rank S" height="40"/>
 </a>
 <a href="https://github.com/Andikaputh">
-  <img src="https://img.shields.io/badge/AI_Architect-Next_Gen_LLM-darkred?style=for-the-badge&logo=openai&logoColor=white&labelColor=0b0f19" alt="AI Architect" height="40"/>
+  <img src="https://img.shields.io/badge/AI_Architect-Next_Gen_LLM-purple?style=for-the-badge&logo=openai&logoColor=white&labelColor=0b0f19" alt="AI Architect" height="40"/>
 </a>
 <a href="https://github.com/Andikaputh">
-  <img src="https://img.shields.io/badge/Streak-Consistent_Dev-crimson?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f19" alt="Streak" height="40"/>
+  <img src="https://img.shields.io/badge/Streak-Consistent_Dev-cyan?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f19" alt="Streak" height="40"/>
 </a>
 <a href="https://github.com/Andikaputh">
-  <img src="https://img.shields.io/badge/Database-SQL_%26_Stats-maroon?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0b0f19" alt="Database" height="40"/>
+  <img src="https://img.shields.io/badge/Database-SQL_%26_Stats-green?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0b0f19" alt="Database" height="40"/>
 </a>
 
 </div>
@@ -70,8 +69,7 @@
 
 ### 📈 GitHub Streak & Activity
 <div align="center">
-  <!-- Grafik Streak dengan Aksen Merah Menyala -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=ef4444&fire=ff4d4d&currStreakNum=ffffff&sideLabels=94a3b8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=3b82f6&fire=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8" />
 </div>
 
 <br>
