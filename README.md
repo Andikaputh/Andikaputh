@@ -1,4 +1,4 @@
-<!-- Kontainer Utama dengan Warna Latar Belakang Penuh (Background Color) -->
+<!-- Kontainer Utama dengan Warna Latar Belakang Penuh -->
 <table width="100%" style="background-color: #0b0f19; border: 1px solid #1e293b; border-radius: 12px; padding: 25px;">
 <tr>
 <td>
@@ -22,10 +22,10 @@
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages & Tech Stack
 <div align="center">
 
-<!-- Core Languages & Data -->
+<!-- Bahasa & Tools Utama yang Stabil (Tidak akan pernah error) -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -33,7 +33,6 @@
 
 <br>
 
-<!-- AI & Frameworks -->
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -41,7 +40,6 @@
 
 <br>
 
-<!-- Version Control -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -50,16 +48,9 @@
 
 <br>
 
-### 📊 Most Used Languages (GitHub Repository Stats)
-<div align="center">
-  <!-- Menggunakan layout card alternatif yang membaca data repository asli secara otomatis -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andikaputh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=0ea5e9&text_color=c9d1d9" />
-</div>
-
-<br>
-
 ### 📈 GitHub Streak & Activity
 <div align="center">
+  <!-- Streak stats biasanya jauh lebih stabil dibanding top-langs -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8" />
 </div>
 
