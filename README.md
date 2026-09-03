@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack & Tools
 <div align="center">
 
-<!-- Core Languages & Data (Tanpa Linux) -->
+<!-- Core Languages & Data -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -52,8 +52,8 @@
 
 ### 📊 Most Used Languages (Real Project Stats)
 <div align="center">
-  <!-- Grafik Bar Bahasa Pemrograman Berdasarkan Commit Project Asli -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andikaputh&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" />
+  <!-- Menggunakan layout bar persentase horizontal yang stabil dan anti-error -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andikaputh&theme=tokyonight&hide_border=true&layout=normal&langs_count=5&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" />
 </div>
 
 <br>
