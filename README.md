@@ -25,7 +25,7 @@
 ### 🛠️ Languages & Tech Stack
 <div align="center">
 
-<!-- Bahasa & Tools Utama yang Stabil (Tidak akan pernah error) -->
+<!-- Bahasa & Tools Utama -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -48,9 +48,18 @@
 
 <br>
 
+### 📊 GitHub Statistic
+<p align="center">
+<a href="https://github.com/Andikaputh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andikaputh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andikaputh&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<br>
+
 ### 📈 GitHub Streak & Activity
 <div align="center">
-  <!-- Streak stats biasanya jauh lebih stabil dibanding top-langs -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8" />
 </div>
 
