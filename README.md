@@ -8,8 +8,8 @@
 # Hi, I'm Andika Putra Perdana 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Work-0ea5e9?style=flat-square&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Data_%26_AI_Engineer-1e293b?style=flat-square&color=0b0f19&labelColor=1e293b&colorA=0ea5e9" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work_%26_Collaborate-0ea5e9?style=flat-square&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Data_%26_AI_Enthusiast-1e293b?style=flat-square&color=0b0f19&labelColor=1e293b&colorA=0ea5e9" />
   <img src="https://img.shields.io/badge/Focus-Next_Gen_AI_%26_LLM-0ea5e9?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
@@ -18,7 +18,7 @@
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
 ### 💻 About Me
-> A passionate **Data & AI Engineer** focused on building intelligent systems, statistical modeling, and exploring the boundaries of Next-Gen Generative AI. I turn complex data into actionable insights and scalable solutions.
+> I am currently an active student at **Gunadarma University**, focusing on the realms of Data Science and Artificial Intelligence. As an aspiring **Data & AI Engineer**, I am currently seeking professional opportunities (full-time, part-time, or internships) to kickstart my career. I am deeply passionate about statistical modeling, building intelligent systems, and exploring Next-Gen Generative AI. I'm always open to collaborating on innovative projects, research, and exciting tech initiatives in data and AI!
 
 <br>
 
