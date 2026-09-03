@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Andikaputh/Andikaputh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ [SYSTEM INTERFACE ACTIVATED] ⚡
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=120&section=header&text=HUNTER%20:%20ANDIKA%20PUTRA&fontSize=26&fontColor=38bdf8&animation=fadeIn" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### 📊 [HUNTER STATUS]
+> **Hunter Name:** Andika Putra Perdana  
+> **Job:** Next-Gen AI & Data Monarch  
+> **Level:** 12  
+> **Rank:** S-Rank Awakening  
+> **HP:** [████████████] 100% | **MP:** [████████░░] 85%  
+
+```text
+[STATUS ATTRIBUTE]
+- Data Statistics (Analisis & Probabilitas) : 145
+- Machine Learning (Model & Algoritma)     : 130
+- Next-Gen AI (LLM / Generative AI)        : 160
+- Coding Agility (Python / PyTorch / API)  : 140
+Available Stat Points: [ 5 ]
