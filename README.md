@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Andika Putra Perdana 👋
+<!-- Banner Merah Menyala di Paling Atas -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,80&height=120&section=header&text=ANDIKA%20PUTRA%20PERDANA&fontSize=26&fontColor=ff4d4d&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-3b82f6?style=flat-square&logo=icloud&logoColor=3b82f6" />
-  <img src="https://img.shields.io/badge/Role-Data_%26_AI_Engineer-1e293b?style=flat-square&color=0b0f19&labelColor=1e293b&colorA=3b82f6" />
-  <img src="https://img.shields.io/badge/Focus-Next_Gen_AI_%26_LLM-3b82f6?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Online-ef4444?style=flat-square&logo=icloud&logoColor=ef4444" />
+  <img src="https://img.shields.io/badge/Role-Data_%26_AI_Engineer-1e293b?style=flat-square&color=0b0f19&labelColor=1e293b&colorA=ef4444" />
+  <img src="https://img.shields.io/badge/Focus-Next_Gen_AI_%26_LLM-ef4444?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 </div>
@@ -17,21 +18,21 @@
 
 ---
 
-### 🏆 Hunter Achievements (Duolingo-Style)
+### 🏆 Achievements & Badges (Duolingo-Style)
 <div align="center">
 
-<!-- Badge Besar Ala Duolingo / Game Milestone -->
+<!-- Badge Besar dengan Aksen Merah (Red Theme) -->
 <a href="https://github.com/Andikaputh">
-  <img src="https://img.shields.io/badge/RANK_S-Data_Monarch-blue?style=for-the-badge&logo=codewars&logoColor=white&labelColor=0b0f19" alt="Rank S" height="40"/>
+  <img src="https://img.shields.io/badge/RANK_S-Data_Monarch-red?style=for-the-badge&logo=codewars&logoColor=white&labelColor=0b0f19" alt="Rank S" height="40"/>
 </a>
 <a href="https://github.com/Andikaputh">
-  <img src="https://img.shields.io/badge/AI_Architect-Next_Gen_LLM-purple?style=for-the-badge&logo=openai&logoColor=white&labelColor=0b0f19" alt="AI Architect" height="40"/>
+  <img src="https://img.shields.io/badge/AI_Architect-Next_Gen_LLM-darkred?style=for-the-badge&logo=openai&logoColor=white&labelColor=0b0f19" alt="AI Architect" height="40"/>
 </a>
 <a href="https://github.com/Andikaputh">
-  <img src="https://img.shields.io/badge/Streak-Consistent_Dev-cyan?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f19" alt="Streak" height="40"/>
+  <img src="https://img.shields.io/badge/Streak-Consistent_Dev-crimson?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f19" alt="Streak" height="40"/>
 </a>
 <a href="https://github.com/Andikaputh">
-  <img src="https://img.shields.io/badge/Database-SQL_%26_Stats-green?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0b0f19" alt="Database" height="40"/>
+  <img src="https://img.shields.io/badge/Database-SQL_%26_Stats-maroon?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0b0f19" alt="Database" height="40"/>
 </a>
 
 </div>
@@ -69,8 +70,8 @@
 
 ### 📈 GitHub Streak & Activity
 <div align="center">
-  <!-- Menggunakan link streak stats yang stabil -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=3b82f6&fire=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8" />
+  <!-- Grafik Streak dengan Aksen Merah Menyala -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=ef4444&fire=ff4d4d&currStreakNum=ffffff&sideLabels=94a3b8" />
 </div>
 
 <br>
