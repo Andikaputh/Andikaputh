@@ -1,5 +1,5 @@
-<!-- Membungkus seluruh profil dalam satu container dengan background kustom -->
-<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 25px;">
+<!-- Kontainer Utama dengan Warna Latar Belakang Penuh (Background Color) -->
+<table width="100%" style="background-color: #0b0f19; border: 1px solid #1e293b; border-radius: 12px; padding: 25px;">
 <tr>
 <td>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;" />
+<hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
 ### 💻 About Me
 > A passionate **Data & AI Engineer** focused on building intelligent systems, statistical modeling, and exploring the boundaries of Next-Gen Generative AI. I turn complex data into actionable insights and scalable solutions.
@@ -52,14 +52,14 @@
 
 ### ⚡ Coding Activity (WakaTime Real-Time Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Andikaputh&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=7" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Andikaputh&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=0ea5e9&text_color=c9d1d9&langs_count=7" />
 </div>
 
 <br>
 
 ### 📈 GitHub Streak & Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8" />
 </div>
 
 <br>
