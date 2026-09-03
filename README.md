@@ -38,23 +38,43 @@
 
 ---
 
-### 📊 Tech Stack & Language Share (Based on Real Commits)
-*Grafik di bawah ini secara otomatis menghitung persentase bahasa pemrograman yang paling sering Anda gunakan berdasarkan *commit* di seluruh repository Anda.*
-
+### 📊 Tech Stack & Tools
 <div align="center">
-  <!-- Grafik Bahasa Berdasarkan Persentase Commit Asli (Layout Compact / Berupa Bar Persentase) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andikaputh&theme=tokyonight&hide_border=true&layout=donut&langs_count=6&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" />
+
+<!-- Baris 1: Core Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br>
+
+<!-- Baris 2: AI & ML Frameworks -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<br>
+
+<!-- Baris 3: Version Control & Environment -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 </div>
 
 ---
 
-### 📈 GitHub Metrics & Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andikaputh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=3b82f6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=3b82f6&fire=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8" width="48%" />
-</p>
+### 📈 GitHub Streak & Activity
+<div align="center">
+  <!-- Menggunakan link streak stats yang stabil -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=3b82f6&fire=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8" />
+</div>
+
+<br>
 
 <div align="center">
-  <br>
   <p align="center"><i>"Building intelligent solutions, one model at a time."</i></p>
 </div>
