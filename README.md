@@ -50,10 +50,10 @@
 
 <br>
 
-### 📊 Most Used Languages (Real Project Stats)
+### ⚡ Coding Activity (WakaTime Stats)
 <div align="center">
-  <!-- Menggunakan layout bar persentase horizontal yang stabil dan anti-error -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andikaputh&theme=tokyonight&hide_border=true&layout=normal&langs_count=5&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" />
+  <!-- Grafik WakaTime Donut Chart (Ganti 'Andikaputh' dengan username WakaTime kamu jika berbeda dari username GitHub) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Andikaputh&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=7" />
 </div>
 
 <br>
