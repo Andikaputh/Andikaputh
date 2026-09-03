@@ -50,9 +50,10 @@
 
 <br>
 
-### ⚡ Coding Activity (WakaTime Real-Time Stats)
+### 📊 Most Used Languages (GitHub Repository Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Andikaputh&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=0ea5e9&text_color=c9d1d9&langs_count=7" />
+  <!-- Menggunakan layout card alternatif yang membaca data repository asli secara otomatis -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andikaputh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=0ea5e9&text_color=c9d1d9" />
 </div>
 
 <br>
