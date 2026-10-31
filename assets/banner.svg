@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" fill="none" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">Andika Putra Perdana — Data and AI Engineer</title>
+  <desc id="bannerDesc">Dark editorial banner. Name: Andika Putra Perdana, Data and AI Engineer based in Jakarta, Indonesia, Informatics student at Universitas Gunadarma. Selected signals: SiPEKA accuracy 99.34 percent, Sentinel ROC-AUC 0.9801, RASA p95 latency 78 milliseconds, SiPEKA SUS score 85 out of 100.</desc>
+
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 0) rotate(90) scale(340 520)">
+      <stop stop-color="#FF5A2B" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#FF5A2B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <linearGradient id="veil" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#08090B" stop-opacity="0"/>
+      <stop offset="1" stop-color="#08090B" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="300" fill="#08090B"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
+  <rect width="900" height="300" fill="url(#glow)"/>
+  <rect y="220" width="900" height="80" fill="url(#veil)"/>
+
+  <!-- status line -->
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="1.4">
+    <circle cx="56" cy="48" r="8" fill="#FF5A2B" opacity="0.16"/>
+    <circle cx="56" cy="48" r="3" fill="#FF5A2B"/>
+    <text x="76" y="52" fill="#F4F1EA">OPEN TO DATA &amp; AI ROLES</text>
+    <text x="268" y="52" fill="#3A3731">/</text>
+    <text x="284" y="52" fill="#8C8781">JAKARTA, INDONESIA</text>
+  </g>
+
+  <!-- name -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="56" letter-spacing="-1" fill="#F4F1EA">
+    <text x="48" y="126">Andika</text>
+    <text x="48" y="182"><tspan font-style="italic">Putra</tspan> Perdana<tspan fill="#FF5A2B">.</tspan></text>
+  </g>
+
+  <!-- subtitle -->
+  <text x="48" y="218" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#A5A09A">Production ML · MLOps · RAG · Analytics dashboards</text>
+
+  <!-- footer meta -->
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" letter-spacing="1.4" fill="#8C8781">
+    <text x="48" y="278">UNIVERSITAS GUNADARMA · INFORMATICS · SEMESTER 7</text>
+    <text x="852" y="278" text-anchor="end" letter-spacing="1">ANDIKAPUTRA-PORTFOLIO.VERCEL.APP</text>
+  </g>
+
+  <!-- divider -->
+  <line x1="458" y1="80" x2="458" y2="248" stroke="#1E293B"/>
+
+  <!-- selected signals -->
+  <text x="484" y="72" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="8.5" letter-spacing="1.6" fill="#8C8781">SELECTED SIGNALS</text>
+
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+    <!-- card 1 -->
+    <rect x="484" y="84" width="176" height="74" rx="9" fill="#0D1117" stroke="#1E293B"/>
+    <rect x="484" y="84" width="30" height="2" rx="1" fill="#FF5A2B"/>
+    <text x="500" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#F4F1EA">99.34%</text>
+    <text x="500" y="142" font-size="8.5" letter-spacing="1" fill="#8C8781">SIPEKA ACCURACY</text>
+
+    <!-- card 2 -->
+    <rect x="676" y="84" width="176" height="74" rx="9" fill="#0D1117" stroke="#1E293B"/>
+    <rect x="676" y="84" width="30" height="2" rx="1" fill="#FF5A2B"/>
+    <text x="692" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#F4F1EA">0.9801</text>
+    <text x="692" y="142" font-size="8.5" letter-spacing="1" fill="#8C8781">SENTINEL ROC-AUC</text>
+
+    <!-- card 3 -->
+    <rect x="484" y="170" width="176" height="74" rx="9" fill="#0D1117" stroke="#1E293B"/>
+    <rect x="484" y="170" width="30" height="2" rx="1" fill="#FF5A2B"/>
+    <text x="500" y="206" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#F4F1EA">78 ms</text>
+    <text x="500" y="228" font-size="8.5" letter-spacing="1" fill="#8C8781">RASA P95 LATENCY</text>
+
+    <!-- card 4 -->
+    <rect x="676" y="170" width="176" height="74" rx="9" fill="#0D1117" stroke="#1E293B"/>
+    <rect x="676" y="170" width="30" height="2" rx="1" fill="#FF5A2B"/>
+    <text x="692" y="206" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#F4F1EA">85/100</text>
+    <text x="692" y="228" font-size="8.5" letter-spacing="1" fill="#8C8781">SIPEKA SUS · GRADE A</text>
+  </g>
+</svg>
