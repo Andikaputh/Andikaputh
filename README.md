@@ -1,73 +1,57 @@
-<!-- Kontainer Utama dengan Warna Latar Belakang Penuh -->
-<table width="100%" style="background-color: #0b0f19; border: 1px solid #1e293b; border-radius: 12px; padding: 25px;">
-<tr>
-<td>
+## Ship · learn · repeat
 
 <div align="center">
 
-# Hi, I'm Andika Putra Perdana 👋
+# Andika Putra Perdana
+
+> Frontend or full-stack engineer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work_%26_Collaborate-0ea5e9?style=flat-square&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Data_%26_AI_Enthusiast-1e293b?style=flat-square&color=0b0f19&labelColor=1e293b&colorA=0ea5e9" />
-  <img src="https://img.shields.io/badge/Focus-Next_Gen_AI_%26_LLM-0ea5e9?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://www.gitskins.com/api/section/hero?username=andikaputh&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F146901454%3Fu%3Dfe0bd7e4ed18b12858d8309368fcb29e0c906d13%26v%3D4" alt="andikaputh hero visual" />
 </p>
 
 </div>
 
-<hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
+## The current loop
 
-### 💻 About Me
-> I am currently an active student at **Gunadarma University**, focusing on the realms of Data Science and Artificial Intelligence. As an aspiring **Data & AI Engineer**, I am currently seeking professional opportunities (full-time, part-time, or internships) to kickstart my career. I am deeply passionate about statistical modeling, building intelligent systems, and exploring Next-Gen Generative AI. I'm always open to collaborating on innovative projects, research, and exciting tech initiatives in data and AI!
+> Aspiring Data &amp; AI Engineer | Statistical Modeling &amp; Next-Gen LLMs | Student at Gunadarma University
 
-<br>
+- 📍 Based in **Jakarta, Indonesia**
+- 🏢 Working at **@Gunadarma-University**
+- 🌐 [Website](https://www.linkedin.com/in/andika-putra-perdana/)
+- 👥 **4** followers · **2** following
 
-### 🛠️ Languages & Tech Stack
-<div align="center">
+*Small, useful work over vague claims.*
 
-<!-- Bahasa & Tools Utama -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+## Things I’m building
 
-<br>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-</div>
-
-<br>
-
-### 📊 GitHub Statistic
-<p align="center">
-<a href="https://github.com/Andikaputh">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andikaputh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andikaputh&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<br>
-
-### 📈 GitHub Streak & Activity
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaputh&theme=tokyonight&hide_border=true&background=0b0f19&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8" />
-</div>
-
-<br>
-
-<div align="center">
-  <p align="center"><i>"Building intelligent solutions, one model at a time."</i></p>
-</div>
-
-</td>
-</tr>
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Andikaputh/fraud-detection-engine">fraud-detection-engine</a></b></td><td>Real-time fraud decisioning engine with anomaly scoring, explainable policy rules, alert triage, and a live operations console. Synthetic demo data.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Andikaputh/doc2md-converter">doc2md-converter</a></b></td><td>A privacy-first document-to-markdown converter optimized for LLM workflows. Securely extract and batch-process PDFs, Office files, and more in-memory.<br/><sub>JavaScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Andikaputh/production-recommendation-system">production-recommendation-system</a></b></td><td>Mission-aware product recommendation system with hybrid ranking, constraint-aware basket optimization, explainable results, and a live public demo.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Andikaputh/typehybrid">typehybrid</a></b></td><td>A web-based touch typing application featuring interactive study modules, customizable free test modes, dynamic themes, and real-time analytics.<br/><sub>JavaScript · 0 stars</sub></td></tr>
 </table>
+
+## Signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=andikaputh&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F146901454%3Fu%3Dfe0bd7e4ed18b12858d8309368fcb29e0c906d13%26v%3D4" alt="andikaputh stats visual" />
+</p>
+
+<p><code>287 contributions</code> · <code>0 day streak</code></p>
+
+## The shipping calendar
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=andikaputh&theme=satan" alt="andikaputh contribution activity" />
+</p>
+
+## Work with me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=andikaputh&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F146901454%3Fu%3Dfe0bd7e4ed18b12858d8309368fcb29e0c906d13%26v%3D4" alt="andikaputh social visual" />
+</p>
+
+<a href="https://github.com/andikaputh">GitHub</a> · <a href="https://www.linkedin.com/in/andika-putra-perdana/">Website</a>
+
+<p align="center"><sub>Andika Putra Perdana · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
